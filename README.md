@@ -17,4 +17,11 @@
 ### here are more:
 **to do list**
 - [x] ordered list!
+1. one
+2. two
+3. three
 - [ ] unordered list!
+- hi
+- hello
+- goodbye
+- hello again!
